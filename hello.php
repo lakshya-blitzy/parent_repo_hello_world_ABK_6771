@@ -1,1 +1,3 @@
-<?php echo "Hello, World!";
+<?php
+/** Prints "Hello, World!" to standard output. */
+echo "Hello, World!";
