@@ -1,0 +1,3 @@
+[submodule "submodule_repo_child_level_1"]
+	path = submodule_repo_child_level_1
+	url = https://github.com/lakshya-blitzy-only-submodules/submodule_repo_child_level_1.git
